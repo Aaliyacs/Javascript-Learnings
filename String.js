@@ -16,4 +16,5 @@ console.log(secondString);
 console.log(secondString.trim());
 const url = "https:\\aaliyaa@google.com"
 console.log(url.replace("google","microsoft"));
-console.log(url.includes("aaliyaa"))
+console.log(url.includes("aaliyaa"));
+console.log(url.split('-'));
